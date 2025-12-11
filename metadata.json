@@ -1,0 +1,5 @@
+{
+  "name": "QualityGuard AI",
+  "description": "A smart product quality control log utilizing Gemini AI to analyze inspection notes and manage audit data across simulated spreadsheets.",
+  "requestFramePermissions": []
+}
